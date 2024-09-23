@@ -1,9 +1,8 @@
 ---
-date: 2024-03-24
-title: New features
-description: More new features specific to this theme.
-mermaid: true
-mathjax: true
+title: "Metodología"
+description: "En esta sección se detalla sobre la metodología a implementar en el proyecto"
+date: 2024-09-15
+tags: ["metodologia", "proyecto"]
 ---
 
 ### Support collapse

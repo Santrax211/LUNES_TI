@@ -1,11 +1,15 @@
 ---
-title: "A post of Markdown elements"
+title: "Objetivos"
 description: "This post is for testing and listing a number of different markdown elements"
-date: 2024-03-19
-tags: ["test", "markdown"]
+date: 2024-09-13
+tags: ["acta", "proyecto"]
 ---
 
-## This is a H2 Heading
+## Información del Proyecto
+
+## Propósito y Justificación 
+
+## Descripción del Proyecto y Entregables
 
 ### This is a H3 Heading
 

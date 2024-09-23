@@ -16,13 +16,13 @@
  * beian {string} Chinese policy
  */
 export const site = {
-  title: 'Astro Theme Yi', // required
+  title: 'Blog FEPTI', // required
   favicon: '/favicon.svg', // required
   description: 'Welcome to my independent blog website! ',
-  author: "Astro-Yi", // required
-  avatar: '/avatar.png', // required
-  url: 'https://xxxxxx.com', // required
-  motto: 'Actions speak louder than words.',
+  author: "Team System", // required
+  avatar: '/avatar.jpeg', // required
+  url: 'https://lh3.googleusercontent.com/p/AF1QipO5hHdOLkAogSQGbqJBGJ0VUvvrAwvMS3APhwgo=s680-w680-h510', // required
+  motto: 'I.E. Heroes del Alto Cenepa 6070',
   recentBlogSize: 5,
   archivePageSize: 25,
   postPageSize: 10,
@@ -113,12 +113,12 @@ export const infoLinks = [
   {
     icon: 'ri-instagram-fill',
     name: 'instagram',
-    outlink: 'xxxxxxx',
+    outlink: 'https://www.instagram.com/samuel_talledo_21/',
   },
   {
     icon: 'ri-github-fill',
     name: 'github',
-    outlink: 'xxxxxxx',
+    outlink: 'https://github.com/Santrax211/LUNES_TI.git',
   },
   {
     icon: 'ri-rss-fill',
