@@ -1,192 +1,42 @@
 ---
-title: "Metodología"
+title: "Metodología ITIL v4.0"
 description: "En esta sección se detalla sobre la metodología a implementar en el proyecto"
 date: 2024-09-15
 tags: ["metodologia", "proyecto"]
 ---
 
-### Support collapse
+## ¿Qué es?
 
-```bash
-:::collapse
-Hello World!
-:::
-```
+ITIL (Information Technology Infrastructure Library) es un marco de buenas prácticas para la gestión de servicios de tecnología de la información (TI). Desarrollado por la Oficina de Comercio del Gobierno del Reino Unido en la década de 1980, ITIL proporciona un conjunto de directrices para la gestión eficiente y efectiva de los servicios de TI. ITIL se ha ido actualizando a lo largo de los años, y la versión más reciente, ITIL v4, se centra en la co-creación de valor entre proveedores de servicios y clientes, destacando la importancia de la experiencia del cliente y la adaptación a un entorno empresarial en constante cambio.
 
+## ¿Qué abarca?
 
-:::collapse
-Hello World!
-:::
+ITIL abarca varios componentes clave en la gestión de servicios de TI, que se agrupan en un ciclo de vida del servicio. Estos son:
 
-### Support admonitions
+1. Estrategia del Servicio: Define el enfoque general para la gestión de servicios, incluyendo la identificación de oportunidades y la creación de valor para los clientes.
 
-```markdown
-:::tip[Customized Title]
-hello world
-:::
+2. Diseño del Servicio: Involucra el diseño y la planificación de nuevos servicios, asegurando que se alineen con los objetivos del negocio y las expectativas del cliente.
 
-:::note
-note
-:::
+3. Transición del Servicio: Se centra en la entrega de nuevos servicios o cambios a los servicios existentes, garantizando que sean implementados correctamente y que se minimicen los riesgos.
 
-:::caution
-caution
-:::
+4. Operación del Servicio: Abarca la gestión diaria de los servicios de TI, incluyendo la resolución de incidentes, el manejo de problemas y la gestión de solicitudes de servicio.
 
-:::danger
-danger
-:::
+5. Mejora Continua del Servicio: Se encarga de la evaluación y mejora constante de los servicios existentes, basándose en métricas y feedback para asegurar que se mantenga el valor entregado a los clientes.
 
-```
+## Beneficios de ITIL
 
-:::tip[Customized Title]
-hello world
-:::
+La implementación de ITIL puede proporcionar una serie de beneficios significativos para las organizaciones, tales como:
 
-:::note
-note
+1. Mejora en la Calidad del Servicio: Al seguir las mejores prácticas de ITIL, las organizaciones pueden ofrecer servicios de mayor calidad, lo que resulta en una mejor satisfacción del cliente.
 
-```js
-console.log('hello world')
-```
+2. Mayor Eficiencia: ITIL promueve la optimización de procesos y la eliminación de ineficiencias, lo que puede llevar a una reducción de costos y una mejora en la productividad.
 
-:::
+3. Adaptación al Cambio: Con un enfoque en la gestión del cambio y la mejora continua, las organizaciones pueden adaptarse rápidamente a las necesidades cambiantes del negocio y del mercado.
 
-:::caution
-caution
-:::
+4. Mejor Gestión de Riesgos: ITIL proporciona herramientas y métodos para identificar y gestionar riesgos, lo que puede ayudar a las organizaciones a prevenir incidentes y minimizar su impacto.
 
-:::danger
-danger
-:::
+5. Colaboración y Comunicación Mejoradas: ITIL fomenta la colaboración entre diferentes equipos y departamentos, mejorando la comunicación y la alineación en la organización.
 
+6. Enfoque en el Valor del Cliente: ITIL enfatiza la importancia de la experiencia del cliente y la co-creación de valor, asegurando que los servicios se diseñen y entreguen de manera que satisfagan las expectativas del cliente.
 
-### Support mermaid
-
-Use:
-
-+ start with **```mermaid**
-+ end with **```**
-+ set markdown frontmatter `mermaid: true`.
-
-Mermaid Code:
-
-```html title="mermaid.md"
-classDiagram
-    note "From Duck till Zebra"
-    Animal <|-- Duck
-    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
-        +String beakColor
-        +swim()
-        +quack()
-    }
-    class Fish{
-        -int sizeInFeet
-        -canEat()
-    }
-    class Zebra{
-        +bool is_wild
-        +run()
-    }
-```
-
-Result:
-
-```mermaid
-classDiagram
-    note "From Duck till Zebra"
-    Animal <|-- Duck
-    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
-        +String beakColor
-        +swim()
-        +quack()
-    }
-    class Fish{
-        -int sizeInFeet
-        -canEat()
-    }
-    class Zebra{
-        +bool is_wild
-        +run()
-    }
-```
-
-### Support mathjax
-
-+ set markdown frontmatter `mathjax: true`.
-
-#### Block Mode
-
-```yaml title="Mathjax.md"
----
-mathjax: true
----
-hello!
-$$ \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $$
-hello!
-```
-
-hello! 
-$$ \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $$
-hello!
-
-#### Inline Mode
-
-```yaml title="Mathjax.md"
----
-mathjax: true
----
-hello! $ \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $ hello!
-```
-
-hello! $ \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $ hello!
-
-### Integration with Expressive Code
-
-For more usage, please refer to the official website [expressive-code](https://expressive-code.com/).
-
-```js title="line-markers.js" del={2} ins={3-4} {6}
-function demo() {
-  console.log('this line is marked as deleted')
-  // This line and the next one are marked as inserted
-  console.log('this is the second inserted line')
-
-  return 'this line uses the neutral default marker type'
-}
-```
-
-### Code folding is supported by default
-
-```js
-var myArr = [1,2]
-console.log(myArr)
-
-var myObj = {a: 1, b: 2}
-
-for(let key of myArr){
-  console.log(key)
-}
-
-var it = myArr[Symbol.iterator]()
-it.next() // {value: 1, done: false}
-
-// VM704:12 Uncaught TypeError: myObj is not iterable
-for(let key of myObj){
-  console.log(key)
-}
-
-```
+7. Desarrollo de Competencias: La formación en ITIL ayuda a desarrollar competencias en la gestión de servicios, lo que puede ser beneficioso para el desarrollo profesional de los empleados y para la organización en general.

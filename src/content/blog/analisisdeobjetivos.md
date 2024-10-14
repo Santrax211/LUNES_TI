@@ -6,7 +6,7 @@ tags: ["análisis", "proyecto", "problema","objetivos"]
 ---
 
 ## Análisis del Problema
-
+---
 ### Problema Central
 La Institución Educativa Héroes del Alto Cenepa 6070 carece de un sistema estructurado para la gestión y mantenimiento de los recursos tecnológicos, lo que ha provocado un bajo rendimiento de los equipos, fallos en su uso y un costo operativo elevado. Esta situación afecta la calidad de los procesos educativos y administrativos en la institución.
 
@@ -48,9 +48,9 @@ Pérdida de oportunidades de financiamiento o subvenciones externas por falta de
 ### Efecto Final
 La ineficiencia en la gestión tecnológica limita el desarrollo educativo y administrativo de la institución, afectando su capacidad de innovación y mejora continua, lo que compromete su competitividad en el sector educativo.
 
-
+---
 ## Análisis de Objetivos
-
+---
 ### Objetivo Central
 Optimizar la gestión de los recursos tecnológicos de la Institución Educativa Héroes del Alto Cenepa 6070, mediante la implementación de mejores prácticas, con el fin de mejorar la eficiencia operativa y asegurar el rendimiento óptimo de los equipos.
 
@@ -94,4 +94,4 @@ Consolidar un sistema eficiente de gestión de recursos tecnológicos que garant
 
 ## Links
 
-[Content from markdown-it](https://markdown-it.github.io/)
+[Análisis de problemas y objetivos](https://drive.google.com/file/d/1-MvvnfWmDI1e1rTyKUspJuT8sSftoS6j/view?usp=sharing)

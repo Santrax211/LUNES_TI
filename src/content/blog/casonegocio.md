@@ -1,159 +1,20 @@
 ---
 title: "Caso de Negocio"
-description: "This post is for testing and listing a number of different markdown elements"
+description: "En esta sección se indica de forma clara y concisa sobre el caso de negocio"
 date: 2024-09-13
-tags: ["acta", "proyecto"]
+tags: ["caso", "proyecto"]
 ---
 
 ## Información del Proyecto
 
+Nuestro plan es abrir un servicio de consultoría en gestión de TI que brindará auditoría y optimización de recursos tecnológicos para la Institución Educativa Héroes del Alto Cenepa 6070. Nuestro equipo de gestión está formado por Alberto Mondragón, Gerson Sahuma, Samuel Talledo y Jhon Urbisagastegui. Nuestro equipo tiene la experiencia en gestión de infraestructura tecnológica aplicando el marco ITIL y capacitación de personal. Nuestro tamaño de mercado es el sector educativo. Para que este negocio despegue, requerimos acceso a las instalaciones del salón de cómputo y otros dispositivos para realizar un mapeo del hardware, software y redes, para los fines de herramientas de auditoría.  Nuestro objetivo es alcanzar mejorar las conexiones para una red más estable, computadoras con velocidades más óptimas y servicios actualizados de acuerdo a los recursos ofrecidos.
+
 ## Propósito y Justificación 
 
-## Descripción del Proyecto y Entregables
+La Institución Educativa Héroes del Alto Cenepa 6070 enfrenta problemas en la gestión de sus recursos tecnológicos debido a la falta de un enfoque estructurado. Los equipos están desactualizados y el mantenimiento es reactivo, lo que lleva a un rendimiento deficiente y costos innecesarios. La implementación de ITIL v4.0. permitirá una gestión más eficiente y proactiva de hardware, software y redes, optimizando el rendimiento y reduciendo costos de mantenimiento. Además, la capacitación del personal en prácticas de gestión mejorará la capacidad de resolución de problemas y el soporte técnico, elevando la satisfacción general del usuario y asegurando una infraestructura tecnológica más confiable. Este cambio es crucial para mejorar la eficiencia operativa y asegurar que los recursos tecnológicos estén alineados con las necesidades actuales de la institución, sin requerir inversiones adicionales en software.
 
-### This is a H3 Heading
-
-#### This is a H4 Heading
-
-##### This is a H5 Heading
-
-###### This is a H6 Heading
-
-## Horizontal Rules
-
----
-
----
-
----
-
-## Emphasis
-
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Quotes
-
-"Double quotes" and 'single quotes'
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-
-## References
-
-An example containing a clickable reference[^1] with a link to the source.
-
-Second example containing a reference[^2] with a link to the source.
-
-[^1]: Reference first footnote with a return to content link.
-[^2]: Second reference with a link.
-
-If you check out this example in `src/content/post/markdown-elements/index.md`, you'll notice that the references and the heading "Footnotes" are added to the bottom of the page via the [remark-rehype](https://github.com/remarkjs/remark-rehype#options) plugin.
-
-## Lists
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    - Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-	return bar++;
-};
-
-console.log(foo(5));
-```
-
-### Expressive code examples
-
-Adding a title
-
-```js title="file.js"
-console.log("Title example");
-```
-
-A bash terminal
-
-```bash
-echo "A base terminal example"
-```
-
-Highlighting code lines
-
-```js title="line-markers.js" del={2} ins={3-4} {6}
-function demo() {
-	console.log("this line is marked as deleted");
-	// This line and the next one are marked as inserted
-	console.log("this is the second inserted line");
-
-	return "this line uses the neutral default marker type";
-}
-```
-
-[Expressive Code](https://expressive-code.com/) can do a ton more than shown here, and includes a lot of [customisation](https://expressive-code.com/reference/configuration/).
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
-
+La implementación actual de la gestión de recursos tecnológicos en la institución no sigue un marco estructurado, como ITIL. El software utilizado para el inventario es una simple hoja de cálculo (Excel o Google Sheets), lo que impide gestionar eficientemente los activos tecnológicos. No se implementan prácticas de gestión de incidencias ni de mantenimiento preventivo, lo que genera un enfoque reactivo ante fallos. En cuanto al hardware, los equipos son antiguos y están desactualizados, lo que impacta en el rendimiento. La infraestructura de red está formada por routers y switches también desfasados, que presentan fallas recurrentes. Además, los equipos audiovisuales como proyectores no reciben mantenimiento regular. Aplicando ITIL, se debería implementar un sistema de gestión de activos y configuración para registrar y seguir el ciclo de vida de los equipos, y un catálogo de servicios para gestionar incidencias de manera más proactiva. Se requerirían herramientas específicas de software para automatizar estos procesos.
 
 ## Links
 
-[Content from markdown-it](https://markdown-it.github.io/)
+[Caso del negocio](https://docs.google.com/document/d/1Vavu-ensvtoKHfiPSL5SMCuBGYmh5h0c/edit?usp=sharing&ouid=101562657354961412591&rtpof=true&sd=true)
