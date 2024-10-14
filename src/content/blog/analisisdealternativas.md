@@ -1,7 +1,7 @@
 ---
 title: "Análisis de Alternativas"
 description: "En esta sección se estará mostrando el análisis de alternativas"
-date: 2024-09-13
+date: 2024-09-31
 tags: ["analisis", "alternativas", "proyecto"]
 ---
 

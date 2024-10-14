@@ -1,6 +1,6 @@
 ---
 title: "Antecedentes"
-description: "This post is for testing and listing a number of different markdown elements"
+description: "En esta sección mostraremos los antecedentes internacionales y nacionales investigados"
 date: 2024-09-13
 tags: ["antecedentes", "proyecto"]
 ---

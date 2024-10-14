@@ -2,7 +2,7 @@
 title: "Objetivos"
 description: "En esta sección se estará explicando los objetivos de este proyecto"
 date: 2024-09-13
-tags: ["acta", "proyecto"]
+tags: ["objetivo", "proyecto"]
 ---
 
 ## Caso de negocio del Proyecto 
