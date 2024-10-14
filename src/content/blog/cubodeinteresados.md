@@ -5,155 +5,31 @@ date: 2024-09-15
 tags: ["cubo", "proyecto", "interesados"]
 ---
 
-## Información del Proyecto
+##  Cubo de interesados
 
-## Propósito y Justificación 
+Es una representación tridimensional que permite visualizar cómo diferentes partes interesadas se relacionan entre sí y con el proyecto. Aunque no es tan común como la matriz de interesados, se utiliza para evaluar el nivel de influencia y el interés de cada parte interesada en un contexto más amplio.
 
-## Descripción del Proyecto y Entregables
+En este proyecto se analizó a los involucrados y por medio de este método se pudo establecer la relevancia necesaria de cada uno.
 
-### This is a H3 Heading
+Archivo del [Cubo de interesados](https://drive.google.com/file/d/1UobAdHKOIhZlIsCKwsvxlLW3UBJm4Y3y/view?usp=sharing)
 
-#### This is a H4 Heading
+## Matriz de interesados
 
-##### This is a H5 Heading
+Es una herramienta más común y práctica que clasifica a las partes interesadas en función de dos criterios: su interés en el proyecto y su influencia sobre el mismo. Esto permite identificar estrategias adecuadas para gestionar la comunicación y el compromiso con cada grupo.
 
-###### This is a H6 Heading
+Para complementar el cubo de interesados del proyecto en progreso, se decidió mostrar la respectiva matriz de interesados.
 
-## Horizontal Rules
+Archivo de la [Matriz de interesados](https://drive.google.com/file/d/1Zw8FetEPOeEOXntstBHWNTopgve3QYuF/view?usp=sharing)
 
----
+## Beneficios de Usar el Cubo y la Matriz de Interesados
 
----
+1. Identificación de Interesados: Permiten identificar quiénes son los interesados clave en el proyecto y comprender sus motivaciones y preocupaciones.
 
----
+2. Priorización de Recursos: Ayudan a decidir dónde enfocar los esfuerzos de comunicación y gestión de relaciones.
 
-## Emphasis
+3. Gestión de Riesgos: Al entender las dinámicas entre los interesados, se pueden anticipar y mitigar riesgos relacionados con la resistencia al cambio o la falta de apoyo.
 
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Quotes
-
-"Double quotes" and 'single quotes'
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-
-## References
-
-An example containing a clickable reference[^1] with a link to the source.
-
-Second example containing a reference[^2] with a link to the source.
-
-[^1]: Reference first footnote with a return to content link.
-[^2]: Second reference with a link.
-
-If you check out this example in `src/content/post/markdown-elements/index.md`, you'll notice that the references and the heading "Footnotes" are added to the bottom of the page via the [remark-rehype](https://github.com/remarkjs/remark-rehype#options) plugin.
-
-## Lists
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    - Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-	return bar++;
-};
-
-console.log(foo(5));
-```
-
-### Expressive code examples
-
-Adding a title
-
-```js title="file.js"
-console.log("Title example");
-```
-
-A bash terminal
-
-```bash
-echo "A base terminal example"
-```
-
-Highlighting code lines
-
-```js title="line-markers.js" del={2} ins={3-4} {6}
-function demo() {
-	console.log("this line is marked as deleted");
-	// This line and the next one are marked as inserted
-	console.log("this is the second inserted line");
-
-	return "this line uses the neutral default marker type";
-}
-```
-
-[Expressive Code](https://expressive-code.com/) can do a ton more than shown here, and includes a lot of [customisation](https://expressive-code.com/reference/configuration/).
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
-
+4. Mejora de la Comunicación: Facilitan una mejor planificación de las estrategias de comunicación, asegurando que todos los interesados reciban la información adecuada en el momento adecuado.
 
 ## Links
-
-[Content from markdown-it](https://markdown-it.github.io/)
+Para más información sobre el [Cubo y Matriz de interesados](https://docs.google.com/spreadsheets/d/1D_oKNXbLTypLWM_DGMCPlkCbf23Geq4X/edit?usp=sharing&ouid=101562657354961412591&rtpof=true&sd=true)
