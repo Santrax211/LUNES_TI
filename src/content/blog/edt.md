@@ -114,3 +114,7 @@ Documentación de los aprendizajes obtenidos durante el proyecto para futuras re
 ### Contribución al éxito del proyecto
 
 La mejora continua garantiza que el proyecto evolucione y se adapte a los cambios, optimizando los recursos y servicios a lo largo del tiempo.
+
+## Link
+
+[Estructura de Desglose del Trabajo](https://drive.google.com/file/d/1blfxRIwYfSlTMjWHn2cvcBKgcZ_QaB1U/view?usp=sharing)
