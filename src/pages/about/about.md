@@ -4,7 +4,7 @@ comment: false
 ---
 
 ## Acerca del Sitio Web
-Este blog ha sido creado con el objetivo de mostrar los avances de inicio a fin del proyecto Evaluación y optimización de recursos tecnológicos en la Institución Educativa Héroes del Alto Cenepa 6070 basado en el marco Lean IT
+Este blog ha sido creado con el objetivo de mostrar los avances de inicio a fin del proyecto Evaluación y optimización de recursos tecnológicos en la Institución Educativa Héroes del Alto Cenepa 6070 basado en el marco ITIL v4.0
 
 ## Acerca de Nosotros
 

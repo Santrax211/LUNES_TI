@@ -62,32 +62,32 @@ export const categories = [
     href: "/feed/1",
   },
   {
-    name: "Archive",
+    name: "Archivo",
     iconClass: "ri-archive-line",
     href: "/archive/1",
   },
   {
-    name: "Message",
+    name: "Mensaje",
     iconClass: "ri-chat-1-line",
     href: "/message",
   },
   {
-    name: "Search",
+    name: "Buscar",
     iconClass: "ri-search-line",
     href: "/search",
   },
   {
-    name: "More",
+    name: "Más",
     iconClass: "ri-more-fill",
     href: "javascript:void(0);",
     children: [
       {
-        name: 'About',
+        name: 'Acerca de',
         iconClass: 'ri-information-line',
         href: '/about',
       },
       {
-        name: 'Friends',
+        name: 'Amigos',
         iconClass: 'ri-user-5-line',
         href: '/friends',
         target: '_self',
