@@ -21,7 +21,7 @@ export const site = {
   description: 'Welcome to my independent blog website! ',
   author: "Team System", // required
   avatar: '/avatar.jpeg', // required
-  url: 'https://lh3.googleusercontent.com/p/AF1QipO5hHdOLkAogSQGbqJBGJ0VUvvrAwvMS3APhwgo=s680-w680-h510', // required
+  url: 'https://project-ti.pages.dev', // required
   motto: 'I.E. Heroes del Alto Cenepa 6070',
   recentBlogSize: 5,
   archivePageSize: 25,
@@ -101,13 +101,8 @@ export const categories = [
  */
 export const infoLinks = [
   {
-    icon: 'ri-telegram-fill',
-    name: 'telegram',
-    outlink: 'xxxxxxx',
-  },
-  {
-    icon: 'ri-twitter-fill',
-    name: 'twitter',
+    icon: 'ri-whatsapp-fill',
+    name: 'whatsapp',
     outlink: 'xxxxxxx',
   },
   {
@@ -119,11 +114,6 @@ export const infoLinks = [
     icon: 'ri-github-fill',
     name: 'github',
     outlink: 'https://github.com/Santrax211/LUNES_TI.git',
-  },
-  {
-    icon: 'ri-rss-fill',
-    name: 'rss',
-    outlink: 'xxxxxxx',
   }
 ]
 
