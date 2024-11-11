@@ -71,7 +71,7 @@ Normas de uso para prolongar la vida útil de los recursos tecnológicos.
 
 Evaluación de herramientas que anticipan fallos y permiten acciones preventivas.
 
-#### Contribución al éxito del proyecto
+### Contribución al éxito del proyecto
 
 El mantenimiento preventivo minimiza interrupciones y garantiza que los recursos estén siempre disponibles y en óptimas condiciones.
 
